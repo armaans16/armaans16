@@ -8,6 +8,6 @@ I'm a first-year BSc Computer Science student at City, University of London, wit
 ### **Repositories**
 
 [**Fitplus - All in one fitness app**](https://github.com/armaans16/Fitplus)  
-**Python, SQL, Tkinter, CustomTkinter, PIL, pygame**
+*Python, SQL, Tkinter, CustomTkinter, PIL, pygame*
 
 
