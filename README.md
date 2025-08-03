@@ -7,7 +7,7 @@ I'm a first-year BSc Computer Science student at City, University of London, wit
 
 ### **Repositories**
 
-[**Fitplus - All in one fitness app**](https://github.com/armaans16/Fitplus)
+[**Fitplus - All in one fitness app**](https://github.com/armaans16/Fitplus)  
 _**Python, SQL, Tkinter, CustomTkinter, PIL, pygame**_
 
 
