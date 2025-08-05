@@ -10,4 +10,7 @@ I'm a first-year BSc Computer Science student at City, University of London, wit
 [**Fitplus - All in one fitness app**](https://github.com/armaans16/Fitplus)  
 *Python, SQL, Tkinter, CustomTkinter, PIL, pygame*
 
+[**file-integrity-monitor**](https://github.com/armaans16/file-integrity-monitor)
+*Python, Flet, Json, SHA-256 hashing*
+
 
